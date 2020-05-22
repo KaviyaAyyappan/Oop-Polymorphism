@@ -1,0 +1,6 @@
+C:\Users\kaviya\source\repos\Oop exercise\Polymorphism\MathOperation\bin\Debug\MathOperation.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Polymorphism\MathOperation\bin\Debug\MathOperation.exe
+C:\Users\kaviya\source\repos\Oop exercise\Polymorphism\MathOperation\bin\Debug\MathOperation.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Polymorphism\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Polymorphism\MathOperation\obj\Debug\MathOperation.exe
+C:\Users\kaviya\source\repos\Oop exercise\Polymorphism\MathOperation\obj\Debug\MathOperation.pdb

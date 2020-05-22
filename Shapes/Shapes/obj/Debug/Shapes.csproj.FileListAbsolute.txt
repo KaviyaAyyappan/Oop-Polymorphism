@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\kaviya\source\repos\Oop exercise\Shapes\Shapes\obj\Debug\Shapes.pdb
